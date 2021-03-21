@@ -61,5 +61,3 @@ logical thinking, knowledge of Operating Systems
 
 ## Hobbies
 Traveling, skiing, mountain climbing, music, films.
-
-
